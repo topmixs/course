@@ -1,0 +1,15 @@
+p {
+	background-color: lightblue;
+	color: #fff;
+}
+.first{
+	margin: 50px;
+	border: 1px solid red;
+}
+.second{
+	margin: 50px;
+	border: 1px solid blue
+}
+.third{
+  border: 1px solid green
+}
